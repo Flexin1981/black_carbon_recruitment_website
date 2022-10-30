@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Flexin1981/black_carbon_recruitment_website/static/css/main.a03a1ba2.css",
-    "main.js": "/Flexin1981/black_carbon_recruitment_website/static/js/main.67b9c03d.js",
-    "static/js/787.71e672d5.chunk.js": "/Flexin1981/black_carbon_recruitment_website/static/js/787.71e672d5.chunk.js",
-    "static/media/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg": "/Flexin1981/black_carbon_recruitment_website/static/media/tim-van-der-kuip-CPs2X8JYmS8-unsplash.81b3febc4d2b835a2685.jpg",
-    "index.html": "/Flexin1981/black_carbon_recruitment_website/index.html",
-    "main.a03a1ba2.css.map": "/Flexin1981/black_carbon_recruitment_website/static/css/main.a03a1ba2.css.map",
-    "main.67b9c03d.js.map": "/Flexin1981/black_carbon_recruitment_website/static/js/main.67b9c03d.js.map",
-    "787.71e672d5.chunk.js.map": "/Flexin1981/black_carbon_recruitment_website/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/black_carbon_recruitment_website/static/css/main.a03a1ba2.css",
+    "main.js": "/black_carbon_recruitment_website/static/js/main.822b236d.js",
+    "static/js/787.71e672d5.chunk.js": "/black_carbon_recruitment_website/static/js/787.71e672d5.chunk.js",
+    "index.html": "/black_carbon_recruitment_website/index.html",
+    "main.a03a1ba2.css.map": "/black_carbon_recruitment_website/static/css/main.a03a1ba2.css.map",
+    "main.822b236d.js.map": "/black_carbon_recruitment_website/static/js/main.822b236d.js.map",
+    "787.71e672d5.chunk.js.map": "/black_carbon_recruitment_website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a03a1ba2.css",
-    "static/js/main.67b9c03d.js"
+    "static/js/main.822b236d.js"
   ]
 }
