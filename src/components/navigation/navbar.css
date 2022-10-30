@@ -1,13 +1,6 @@
 
-.navigation {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
-
 .navbar {
-    grid-column-start: 3;
-
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    padding-top: 1rem;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
 }

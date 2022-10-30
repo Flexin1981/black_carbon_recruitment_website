@@ -1,17 +1,15 @@
 import React from 'react'
 import './navbar.css'
-import {Logo} from "../logo/logo";
+import NavigationLink from "./link";
 
 export function Navbar() {
-
     return (
-      <div className={'navigation'}>
-          <Logo/>
-          <nav className={'navbar'}>
-              <p>HOME</p>
-              <p>HOME</p>
-          </nav>
-      </div>
+      <nav className={'navbar'}>
+          <NavigationLink text={'HOME'} link={"/"}/>
+          <NavigationLink text={'ABOUT'} link={"/"}/>
+          <NavigationLink text={'SERVICES'} link={"/"}/>
+          <NavigationLink text={'CONTACT'} link={"/"}/>
+      </nav>
     );
 
 };

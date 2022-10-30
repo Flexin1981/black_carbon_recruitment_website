@@ -1,0 +1,18 @@
+
+.solid_button {
+    border: solid 3px var(--col-primary);
+    background-color: var(--col-primary);
+    border-radius: 26px;
+
+    font-family: var(--primary-font-family);
+    font-weight: bolder;
+
+    width: 152px;
+    height: 40px;
+
+    line-height: 10px;
+
+    text-align: center;
+
+    color: white;
+}

@@ -1,2 +1,29 @@
 
 
+:root {
+    --col-primary: #47CDBD;
+    --primary-font-family: 'Inter', sans-serif;
+    --secondary-font-family: 'Calligraffitti', cursive;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hero-text {
+    margin: 4rem auto;
+    width: 60vw;
+}
+
+.buttons-sections {
+    display: flex;
+    justify-content: center;
+}
+
+
+.fade-background {
+    margin-top: 6rem;
+    height: 516px;
+    background: linear-gradient(124.46deg, #7D9AA3 29.65%, rgba(125, 154, 163, 0) 83.68%);
+}

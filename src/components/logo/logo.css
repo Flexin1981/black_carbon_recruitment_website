@@ -1,6 +1,16 @@
 
-
-
 .logo {
-    padding: 1rem;
+    margin-top: 2rem;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.logo-font {
+    display: flex;
+    width: 100vw;
+    font-family: var(--secondary-font-family);
+    justify-content: center;
+    align-content: center;
 }
