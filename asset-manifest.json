@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/black_carbon_recruitment_website/static/css/main.a03a1ba2.css",
-    "main.js": "/black_carbon_recruitment_website/static/js/main.822b236d.js",
+    "main.css": "/black_carbon_recruitment_website/static/css/main.1244652e.css",
+    "main.js": "/black_carbon_recruitment_website/static/js/main.e07740a5.js",
     "static/js/787.71e672d5.chunk.js": "/black_carbon_recruitment_website/static/js/787.71e672d5.chunk.js",
     "index.html": "/black_carbon_recruitment_website/index.html",
-    "main.a03a1ba2.css.map": "/black_carbon_recruitment_website/static/css/main.a03a1ba2.css.map",
-    "main.822b236d.js.map": "/black_carbon_recruitment_website/static/js/main.822b236d.js.map",
+    "main.1244652e.css.map": "/black_carbon_recruitment_website/static/css/main.1244652e.css.map",
+    "main.e07740a5.js.map": "/black_carbon_recruitment_website/static/js/main.e07740a5.js.map",
     "787.71e672d5.chunk.js.map": "/black_carbon_recruitment_website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a03a1ba2.css",
-    "static/js/main.822b236d.js"
+    "static/css/main.1244652e.css",
+    "static/js/main.e07740a5.js"
   ]
 }
