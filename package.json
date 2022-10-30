@@ -1,5 +1,6 @@
 {
   "name": "website",
+  "homepage": "https://github.io/Flexin1981/black_carbon_recruitment_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "@types/react": "^18.0.23",
     "@types/react-dom": "^18.0.7",
     "eslint": "8.22.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -19,10 +21,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
+  },,
   "eslintConfig": {
     "extends": [
       "react-app",
